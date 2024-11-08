@@ -1,0 +1,44 @@
+# Payxn Cross Chain Payments
+```
+Enables payment of any token like $BONK, $WIF or $PEPE on any chain and receive $USDC to another. 
+```
+
+### To do list
+- [x] Set Up the Project Structure
+- [ ] Create the main project folder
+- [ ] Create folders for each part of the dApp
+- [ ] Frontend Setup (React)
+- [ ] Initialize a React project in frontend
+- [ ] Install necessary dependencies
+- [ ] Set up basic folders for components and utilities
+- [ ] Edit src/App.tsx to render the main component
+- [ ] Eth Smart Contracts: Initialize a Hardhat project
+- [ ] Install Solidity libraries
+- [ ] Create contracts
+- [ ] Compile contracts
+- [ ] Solana Smart Contracts: Set up Solana environment
+- [ ] Edit the Solana program in Rust, Build the program
+- [ ] Backend Setup: Initialize Node.js project in backend
+- [ ] Install essential dependencies
+- [ ] Create core files and folders
+- [ ] Set up an Express server in src/index.ts
+- [ ] Run the backend server
+- [ ] Integrate and Run the Project
+- [ ] Connect the Frontend to Backend APIs for handling cross-chain payments
+- [ ] Deploy and test Ethereum contracts on a testnet (like Goerli)
+- [ ] Deploy Solana contracts to a Solana testnet (like Devnet)
+- [ ] Start the Frontend server
+
+
+### Overview
+We’ll build a cross-chain dApp that has:
+-Frontend: Built with React, which will interact with the Ethereum and Solana networks.
+-Backend: Handles cross-chain communication and payment logic.
+-Smart Contracts: Written for both Ethereum (using Solidity) and Solana (using Rust).
+
+### Prerequisites
+-Node.js (at least v16.x or v18.x)
+-npm or yarn (for JavaScript dependencies)
+-Rust & Solana CLI (for Solana smart contract development)
+-Hardhat or Foundry (for Ethereum smart contract development)
+-Anchor (if using it to simplify Solana contract development)
