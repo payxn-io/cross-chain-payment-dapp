@@ -5,7 +5,7 @@ Enables payment of any token like $BONK, $WIF or $PEPE on any chain and receive 
 
 ### To do list
 - [x] Set Up the Project Structure
-- [ ] Create the main project folder
+- [x] Create the main project folder
 - [ ] Create folders for each part of the dApp
 - [ ] Frontend Setup (React)
 - [ ] Initialize a React project in frontend
