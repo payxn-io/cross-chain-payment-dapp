@@ -32,13 +32,13 @@ Enables payment of any token like $BONK, $WIF or $PEPE on any chain and receive 
 
 ### Overview
 We’ll build a cross-chain dApp that has:
--Frontend: Built with React, which will interact with the Ethereum and Solana networks.
--Backend: Handles cross-chain communication and payment logic.
+-Frontend: Built with React, which will interact with the Ethereum and Solana networks.<br />
+-Backend: Handles cross-chain communication and payment logic.<br />
 -Smart Contracts: Written for both Ethereum (using Solidity) and Solana (using Rust).
 
 ### Prerequisites
--Node.js (at least v16.x or v18.x)
--npm or yarn (for JavaScript dependencies)
--Rust & Solana CLI (for Solana smart contract development)
--Hardhat or Foundry (for Ethereum smart contract development)
--Anchor (if using it to simplify Solana contract development)
+-Node.js (at least v16.x or v18.x)<br />
+-npm or yarn (for JavaScript dependencies)<br />
+-Rust & Solana CLI (for Solana smart contract development)<br />
+-Hardhat or Foundry (for Ethereum smart contract development)<br />
+-Anchor (if using it to simplify Solana contract development)<br />
